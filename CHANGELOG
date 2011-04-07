@@ -1,2 +1,6 @@
 * 2011-04-07  Jeff McCune <jeff@puppetlabs.com>
+- Added examples to tests/init.pp and README
+
+* 2011-04-07  Jeff McCune <jeff@puppetlabs.com>
 - Initial release of 1.0
+
